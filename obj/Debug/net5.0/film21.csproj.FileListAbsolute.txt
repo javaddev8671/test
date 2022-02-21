@@ -1,0 +1,16 @@
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.exe
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.deps.json
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.runtimeconfig.json
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.runtimeconfig.dev.json
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.dll
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\ref\film21.dll
+I:\برنامهد نویسی\film18\film21\bin\Debug\net5.0\film21.pdb
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.GeneratedMSBuildEditorConfig.editorconfig
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.AssemblyInfoInputs.cache
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.AssemblyInfo.cs
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.csproj.CoreCompileInputs.cache
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.dll
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\ref\film21.dll
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.pdb
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.genruntimeconfig.cache
+I:\برنامهد نویسی\film18\film21\obj\Debug\net5.0\film21.csprojAssemblyReference.cache
